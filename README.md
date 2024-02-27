@@ -24,7 +24,7 @@ I am passionate about using Python to extract insights, solve complex problems, 
 
 Here's a glimpse of the projects available in this repository:
 
-- [data-cleaning](data-cleaning)
+- [employee-analysis](employee-analysis)
 
 ## Technologies Used
 
