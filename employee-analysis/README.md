@@ -1,4 +1,9 @@
-# 🚀 Employee Data Adventure! 🚀
+<h1 align="center"> 🚀 Employee Data Adventure! 🚀 </h1> <br>
+<p align="center">
+  <a href="#">
+    <img src="images/employees.jpg">
+  </a>
+</p>
 
 Welcome, fellow data explorers, to a journey through the depths of employee data! 🎉 In this exhilarating adventure, we'll dive into the fascinating world of workforce demographics, salaries, tenures, and more! Let's embark on this epic quest to uncover insights and unravel the mysteries hidden within the dataset! 🕵️‍♂️💼
 
