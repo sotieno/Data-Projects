@@ -17,15 +17,15 @@ Welcome to my cosmic data adventure, where I document my journey through the uni
 
 ## Technologies Used
 
-Our adventure is powered by the magic of Python and its trusty companions: pandas, seaborn, and matplotlib. Python helps us wrangle data, pandas brings it to life, seaborn provides statistical data visualizations, and matplotlib paints the picture. Together, we'll wield these tools to slice through the data, creating visualizations that illuminate our path!
+This adventure is powered by the magic of Python and its trusty companions: pandas, seaborn, and matplotlib. Python helps with wrangling data, pandas brings it to life, seaborn provides statistical data visualizations, and matplotlib paints the picture. Together, we'll wield these tools to slice through the data, creating visualizations that illuminate our path!
 
 ## Join the Adventure
 
-Download the dataset and the Jupyter Notebook from this repository and start your own data adventure! Together, we'll unravel the mysteries of astronomical data and emerge victorious with newfound knowledge!
+Download the dataset and the Jupyter Notebook from this repository and start your own data adventure! Join me in unravelling the mysteries of astronomical data and emerge victorious with newfound knowledge!
 
 ## Contributions Welcome
 
-Your contributions and insights are invaluable! Simply, fork the repository, embark on your own analysis quests, and share your discoveries with the community through pull requests! Together, we'll make this adventure even more epic!
+Your contributions and insights are invaluable! Simply, fork the repository, embark on your own analysis quests, and share your discoveries with the community through pull requests! Together, let's make this adventure even more epic!
 
 ## Contact
 
