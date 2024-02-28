@@ -1,4 +1,4 @@
-<h1 align="center">🚀Cosmic Data Adventure: Exploring the Universe with Python🚀</h1> <br>
+<h1 align="center">🚀 Cosmic Adventure: Exploring the Universe with Python 🚀</h1> <br>
 <p align="center">
   <a href="#">
     <img src="images/astronomy.jpg">
