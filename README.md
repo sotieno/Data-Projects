@@ -24,7 +24,8 @@ I am passionate about using Python to extract insights, solve complex problems, 
 
 Here's a glimpse of the projects available in this repository:
 
-- [employee-analysis](employee-analysis)
+1. [employee-analysis](employee-analysis)
+2. [astronomical-analysis](astronomical-analysis)
 
 ## Technologies Used
 
